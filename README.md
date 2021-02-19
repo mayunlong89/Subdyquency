@@ -1,4 +1,4 @@
-# Subdyquency
+# Subdyquency (This code used for my new paper on PBC, SCZ, COVID-19)
 The Subdyquency is used to identify the cancer driver genes.
 The Subdyquency is applyied under the R environment
 Install the Subdyquency requied:
